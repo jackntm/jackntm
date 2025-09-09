@@ -7,9 +7,10 @@
 ⚡ Fun fact: I can spend hours debugging without getting bored 🤓
 
 # 💻Tech Stack
-Mainly ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-**Database:** MySQL
-**Others:** Git/GitHub, Linux, Docker (learning)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+Database: MySQL
+Others: Git/GitHub, Linux, Docker (learning)  
 
 # 📫 Connect with me:
 📘 [Facebook] (https://www.facebook.com/nguyen.minh.99997)
