@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Nguyễn Tiến Minh  
-🎓 Student at **Ho Chi Minh City University of Technology (HCMUT)**
+🎓 Student at **Ho Chi Minh City University of Technology (HCMUT)** 
 💻 Passionate about **Programming, AI & Technology** 
 
 # 🚀 About Me:
