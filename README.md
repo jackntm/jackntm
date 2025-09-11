@@ -17,8 +17,9 @@ Others: Git/GitHub, Linux, Docker (learning)
 ✉️ Email: minh.nguyen12112005@hcmut.edu.vn & ntm12112005@gmail.
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=jackntm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackntm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jackntm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=360)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackntm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=360)
+
 
 <!--
 **jackntm/jackntm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
